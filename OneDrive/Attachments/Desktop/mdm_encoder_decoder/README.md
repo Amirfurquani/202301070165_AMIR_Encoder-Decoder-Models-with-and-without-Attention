@@ -1,4 +1,4 @@
-# Encoder-Decoder Models with and without Attention
+# Encoder–Decoder Models with and without Attention
 
 ## Overview
 
